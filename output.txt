@@ -1,0 +1,1012 @@
+File Number: 000583
+Time Difference: 4.666666666666667
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000583
+Position Status: Active
+Time In: 09-16-2023 06:05 am
+Time Out: 09-16-2023 11:13 am
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: ViXXa, AXfredE AieXXE
+File Number: 000583
+Time Difference: 5.133333333333334
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000583
+Position Status: Active
+Time In: 09-18-2023 02:15 am
+Time Out: 09-18-2023 06:30 am
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: ViXXa, AXfredE AieXXE
+File Number: 000583
+Time Difference: 4.25
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000583
+Position Status: Active
+Time In: 09-18-2023 07:00 am
+Time Out: 09-18-2023 12:05 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: ViXXa, AXfredE AieXXE
+File Number: 000583
+Time Difference: 5.083333333333333
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000583
+Position Status: Active
+Time In: 09-21-2023 01:57 am
+Time Out: 09-21-2023 03:00 am
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: ViXXa, AXfredE AieXXE
+File Number: 000583
+Time Difference: 1.05
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000583
+Position Status: Active
+Time In: 09-22-2023 12:15 am
+Time Out: 09-22-2023 04:30 am
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: ViXXa, AXfredE AieXXE
+File Number: 000583
+Time Difference: 4.25
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000583
+Position Status: Active
+Time In: 09-22-2023 05:00 am
+Time Out: 09-22-2023 10:33 am
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: ViXXa, AXfredE AieXXE
+File Number: 000583
+Time Difference: 5.55
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000583
+Position Status: Active
+Time In: 09-23-2023 02:15 am
+Time Out: 09-23-2023 06:30 am
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: ViXXa, AXfredE AieXXE
+File Number: 000583
+Time Difference: 4.25
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000583
+Position Status: Active
+Time In: 09-23-2023 07:00 am
+Time Out: 09-23-2023 10:50 am
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: ViXXa, AXfredE AieXXE
+File Number: 000583
+Time Difference: 3.8333333333333335
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000584
+Position Status: Active
+Time In: 09-10-2023 10:10 am
+Time Out: 09-10-2023 02:30 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: ArCeWMa FXEres, JEWaMhaW
+File Number: 000584
+Time Difference: 4.336111111111111
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000584
+Position Status: Active
+Time In: 09-10-2023 03:00 pm
+Time Out: 09-10-2023 08:27 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: ArCeWMa FXEres, JEWaMhaW
+File Number: 000584
+Time Difference: 5.4511111111111115
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000584
+Position Status: Active
+Time In: 09-11-2023 10:35 am
+Time Out: 09-11-2023 02:30 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: ArCeWMa FXEres, JEWaMhaW
+File Number: 000584
+Time Difference: 3.9166666666666665
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000584
+Position Status: Active
+Time In: 09-11-2023 03:00 pm
+Time Out: 09-11-2023 07:35 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: ArCeWMa FXEres, JEWaMhaW
+File Number: 000584
+Time Difference: 4.584722222222222
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000584
+Position Status: Active
+Time In: 09-13-2023 10:50 am
+Time Out: 09-13-2023 03:00 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: ArCeWMa FXEres, JEWaMhaW
+File Number: 000584
+Time Difference: 4.166666666666667
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000584
+Position Status: Active
+Time In: 09-13-2023 03:30 pm
+Time Out: 09-13-2023 05:41 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: ArCeWMa FXEres, JEWaMhaW
+File Number: 000584
+Time Difference: 2.1844444444444444
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000584
+Position Status: Active
+Time In: 09-14-2023 10:25 am
+Time Out: 09-14-2023 02:30 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: ArCeWMa FXEres, JEWaMhaW
+File Number: 000584
+Time Difference: 4.095833333333333
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000584
+Position Status: Active
+Time In: 09-14-2023 03:00 pm
+Time Out: 09-14-2023 08:35 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: ArCeWMa FXEres, JEWaMhaW
+File Number: 000584
+Time Difference: 5.584444444444444
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000584
+Position Status: Active
+Time In: 09-17-2023 10:36 am
+Time Out: 09-17-2023 03:00 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: ArCeWMa FXEres, JEWaMhaW
+File Number: 000584
+Time Difference: 4.405833333333334
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000584
+Position Status: Active
+Time In: 09-17-2023 03:30 pm
+Time Out: 09-17-2023 08:14 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: ArCeWMa FXEres, JEWaMhaW
+File Number: 000584
+Time Difference: 4.734444444444445
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000584
+Position Status: Active
+Time In: 09-18-2023 09:55 am
+Time Out: 09-18-2023 02:30 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: ArCeWMa FXEres, JEWaMhaW
+File Number: 000584
+Time Difference: 4.583888888888889
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000584
+Position Status: Active
+Time In: 09-18-2023 03:00 pm
+Time Out: 09-18-2023 07:47 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: ArCeWMa FXEres, JEWaMhaW
+File Number: 000584
+Time Difference: 4.790277777777778
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000584
+Position Status: Active
+Time In: 09-19-2023 09:55 am
+Time Out: 09-19-2023 02:30 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: ArCeWMa FXEres, JEWaMhaW
+File Number: 000584
+Time Difference: 4.583333333333333
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000584
+Position Status: Active
+Time In: 09-19-2023 03:00 pm
+Time Out: 09-19-2023 07:13 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: ArCeWMa FXEres, JEWaMhaW
+File Number: 000584
+Time Difference: 4.218055555555556
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000584
+Position Status: Active
+Time In: 09-20-2023 10:30 am
+Time Out: 09-20-2023 03:00 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: ArCeWMa FXEres, JEWaMhaW
+File Number: 000584
+Time Difference: 4.5
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000584
+Position Status: Active
+Time In: 09-20-2023 03:30 pm
+Time Out: 09-20-2023 08:49 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: ArCeWMa FXEres, JEWaMhaW
+File Number: 000584
+Time Difference: 5.317777777777778
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000584
+Position Status: Active
+Time In: 09-21-2023 10:06 am
+Time Out: 09-21-2023 03:00 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: ArCeWMa FXEres, JEWaMhaW
+File Number: 000584
+Time Difference: 4.900555555555556
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000584
+Position Status: Active
+Time In: 09-21-2023 03:30 pm
+Time Out: 09-21-2023 08:31 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: ArCeWMa FXEres, JEWaMhaW
+File Number: 000584
+Time Difference: 5.017777777777778
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000585
+Position Status: Active
+Time In: 09-11-2023 10:35 am
+Time Out: 09-11-2023 02:30 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: RaCEs HerWaWdez, AdieX ECar
+File Number: 000585
+Time Difference: 3.9166666666666665
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000585
+Position Status: Active
+Time In: 09-11-2023 03:00 pm
+Time Out: 09-11-2023 08:28 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: RaCEs HerWaWdez, AdieX ECar
+File Number: 000585
+Time Difference: 5.467777777777778
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000585
+Position Status: Active
+Time In: 09-12-2023 10:30 am
+Time Out: 09-12-2023 02:30 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: RaCEs HerWaWdez, AdieX ECar
+File Number: 000585
+Time Difference: 4.0008333333333335
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000585
+Position Status: Active
+Time In: 09-12-2023 03:00 pm
+Time Out: 09-12-2023 05:27 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: RaCEs HerWaWdez, AdieX ECar
+File Number: 000585
+Time Difference: 2.4344444444444444
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000585
+Position Status: Active
+Time In: 09-15-2023 10:11 am
+Time Out: 09-15-2023 02:30 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: RaCEs HerWaWdez, AdieX ECar
+File Number: 000585
+Time Difference: 4.322222222222222
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000585
+Position Status: Active
+Time In: 09-15-2023 03:00 pm
+Time Out: 09-15-2023 06:40 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: RaCEs HerWaWdez, AdieX ECar
+File Number: 000585
+Time Difference: 3.6675
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000585
+Position Status: Active
+Time In: 09-16-2023 10:19 am
+Time Out: 09-16-2023 02:30 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: RaCEs HerWaWdez, AdieX ECar
+File Number: 000585
+Time Difference: 4.19
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000585
+Position Status: Active
+Time In: 09-16-2023 03:00 pm
+Time Out: 09-16-2023 07:16 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: RaCEs HerWaWdez, AdieX ECar
+File Number: 000585
+Time Difference: 4.268611111111111
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000585
+Position Status: Active
+Time In: 09-18-2023 10:00 am
+Time Out: 09-18-2023 02:30 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: RaCEs HerWaWdez, AdieX ECar
+File Number: 000585
+Time Difference: 4.513888888888889
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000585
+Position Status: Active
+Time In: 09-18-2023 03:00 pm
+Time Out: 09-18-2023 07:45 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: RaCEs HerWaWdez, AdieX ECar
+File Number: 000585
+Time Difference: 4.763888888888889
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000585
+Position Status: Active
+Time In: 09-20-2023 10:00 am
+Time Out: 09-20-2023 02:30 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: RaCEs HerWaWdez, AdieX ECar
+File Number: 000585
+Time Difference: 4.5
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000585
+Position Status: Active
+Time In: 09-20-2023 03:00 pm
+Time Out: 09-20-2023 06:55 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: RaCEs HerWaWdez, AdieX ECar
+File Number: 000585
+Time Difference: 3.9175
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000585
+Position Status: Active
+Time In: 09-21-2023 10:05 am
+Time Out: 09-21-2023 02:30 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: RaCEs HerWaWdez, AdieX ECar
+File Number: 000585
+Time Difference: 4.423611111111111
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000585
+Position Status: Active
+Time In: 09-21-2023 03:00 pm
+Time Out: 09-21-2023 06:04 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: RaCEs HerWaWdez, AdieX ECar
+File Number: 000585
+Time Difference: 3.0680555555555555
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000585
+Position Status: Active
+Time In: 09-22-2023 10:44 am
+Time Out: 09-22-2023 02:30 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: RaCEs HerWaWdez, AdieX ECar
+File Number: 000585
+Time Difference: 3.7666666666666666
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000585
+Position Status: Active
+Time In: 09-22-2023 03:00 pm
+Time Out: 09-22-2023 05:31 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: RaCEs HerWaWdez, AdieX ECar
+File Number: 000585
+Time Difference: 2.517777777777778
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000585
+Position Status: Active
+Time In: 09-23-2023 10:07 am
+Time Out: 09-23-2023 02:10 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: RaCEs HerWaWdez, AdieX ECar
+File Number: 000585
+Time Difference: 4.05
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000587
+Position Status: Active
+Time In: 09-12-2023 10:40 am
+Time Out: 09-12-2023 02:30 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: XariEs, Cesar GiEvaWWi
+File Number: 000587
+Time Difference: 3.8344444444444443
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000587
+Position Status: Active
+Time In: 09-12-2023 03:00 pm
+Time Out: 09-12-2023 07:35 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: XariEs, Cesar GiEvaWWi
+File Number: 000587
+Time Difference: 4.584722222222222
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000587
+Position Status: Active
+Time In: 09-13-2023 10:40 am
+Time Out: 09-13-2023 02:30 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: XariEs, Cesar GiEvaWWi
+File Number: 000587
+Time Difference: 3.8344444444444443
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000587
+Position Status: Active
+Time In: 09-13-2023 03:00 pm
+Time Out: 09-13-2023 07:37 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: XariEs, Cesar GiEvaWWi
+File Number: 000587
+Time Difference: 4.618333333333333
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000587
+Position Status: Active
+Time In: 09-14-2023 10:30 am
+Time Out: 09-14-2023 02:30 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: XariEs, Cesar GiEvaWWi
+File Number: 000587
+Time Difference: 4.0008333333333335
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000587
+Position Status: Active
+Time In: 09-14-2023 03:00 pm
+Time Out: 09-14-2023 07:11 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: XariEs, Cesar GiEvaWWi
+File Number: 000587
+Time Difference: 4.185
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000587
+Position Status: Active
+Time In: 09-15-2023 10:40 am
+Time Out: 09-15-2023 02:30 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: XariEs, Cesar GiEvaWWi
+File Number: 000587
+Time Difference: 3.8466666666666667
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000587
+Position Status: Active
+Time In: 09-15-2023 03:00 pm
+Time Out: 09-15-2023 07:06 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: XariEs, Cesar GiEvaWWi
+File Number: 000587
+Time Difference: 4.0872222222222225
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000587
+Position Status: Active
+Time In: 09-16-2023 10:40 am
+Time Out: 09-16-2023 03:00 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: XariEs, Cesar GiEvaWWi
+File Number: 000587
+Time Difference: 4.3375
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000587
+Position Status: Active
+Time In: 09-16-2023 03:30 pm
+Time Out: 09-16-2023 08:04 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: XariEs, Cesar GiEvaWWi
+File Number: 000587
+Time Difference: 4.567777777777778
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000587
+Position Status: Active
+Time In: 09-18-2023 09:55 am
+Time Out: 09-18-2023 02:42 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: XariEs, Cesar GiEvaWWi
+File Number: 000587
+Time Difference: 4.788888888888889
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000587
+Position Status: Active
+Time In: 09-18-2023 03:12 pm
+Time Out: 09-18-2023 06:37 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: XariEs, Cesar GiEvaWWi
+File Number: 000587
+Time Difference: 3.4194444444444443
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000587
+Position Status: Active
+Time In: 09-19-2023 10:33 am
+Time Out: 09-19-2023 03:00 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: XariEs, Cesar GiEvaWWi
+File Number: 000587
+Time Difference: 4.45
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000587
+Position Status: Active
+Time In: 09-19-2023 03:30 pm
+Time Out: 09-19-2023 08:15 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: XariEs, Cesar GiEvaWWi
+File Number: 000587
+Time Difference: 4.7508333333333335
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000587
+Position Status: Active
+Time In: 09-20-2023 10:30 am
+Time Out: 09-20-2023 03:00 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: XariEs, Cesar GiEvaWWi
+File Number: 000587
+Time Difference: 4.5
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000587
+Position Status: Active
+Time In: 09-20-2023 03:30 pm
+Time Out: 09-20-2023 08:49 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: XariEs, Cesar GiEvaWWi
+File Number: 000587
+Time Difference: 5.328333333333333
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000587
+Position Status: Active
+Time In: 09-21-2023 10:40 am
+Time Out: 09-21-2023 03:30 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: XariEs, Cesar GiEvaWWi
+File Number: 000587
+Time Difference: 4.847777777777778
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000587
+Position Status: Active
+Time In: 09-21-2023 04:00 pm
+Time Out: 09-21-2023 08:36 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: XariEs, Cesar GiEvaWWi
+File Number: 000587
+Time Difference: 4.601111111111111
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000587
+Position Status: Active
+Time In: 09-22-2023 10:40 am
+Time Out: 09-22-2023 02:35 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: XariEs, Cesar GiEvaWWi
+File Number: 000587
+Time Difference: 3.9297222222222223
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000587
+Position Status: Active
+Time In: 09-22-2023 03:05 pm
+Time Out: 09-22-2023 07:20 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: XariEs, Cesar GiEvaWWi
+File Number: 000587
+Time Difference: 4.251111111111111
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000588
+Position Status: Active
+Time In: 09-13-2023 10:40 am
+Time Out: 09-13-2023 03:00 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: AGeX, WaMhaW REGerM PeWa
+File Number: 000588
+Time Difference: 4.3341666666666665
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000588
+Position Status: Active
+Time In: 09-13-2023 03:30 pm
+Time Out: 09-13-2023 08:07 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: AGeX, WaMhaW REGerM PeWa
+File Number: 000588
+Time Difference: 4.6177777777777775
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000588
+Position Status: Active
+Time In: 09-18-2023 09:55 am
+Time Out: 09-18-2023 01:59 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: AGeX, WaMhaW REGerM PeWa
+File Number: 000588
+Time Difference: 4.068611111111111
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000588
+Position Status: Active
+Time In: 09-18-2023 02:29 pm
+Time Out: 09-18-2023 07:39 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: AGeX, WaMhaW REGerM PeWa
+File Number: 000588
+Time Difference: 5.170833333333333
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000588
+Position Status: Active
+Time In: 09-19-2023 10:25 am
+Time Out: 09-19-2023 02:30 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: AGeX, WaMhaW REGerM PeWa
+File Number: 000588
+Time Difference: 4.083333333333333
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000588
+Position Status: Active
+Time In: 09-19-2023 03:00 pm
+Time Out: 09-19-2023 06:53 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: AGeX, WaMhaW REGerM PeWa
+File Number: 000588
+Time Difference: 3.8847222222222224
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000588
+Position Status: Active
+Time In: 09-20-2023 10:02 am
+Time Out: 09-20-2023 03:00 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: AGeX, WaMhaW REGerM PeWa
+File Number: 000588
+Time Difference: 4.966666666666667
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000588
+Position Status: Active
+Time In: 09-20-2023 03:30 pm
+Time Out: 09-20-2023 08:29 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: AGeX, WaMhaW REGerM PeWa
+File Number: 000588
+Time Difference: 4.985833333333333
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000588
+Position Status: Active
+Time In: 09-21-2023 10:41 am
+Time Out: 09-21-2023 02:30 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: AGeX, WaMhaW REGerM PeWa
+File Number: 000588
+Time Difference: 3.8313888888888887
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000588
+Position Status: Active
+Time In: 09-21-2023 03:00 pm
+Time Out: 09-21-2023 06:05 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: AGeX, WaMhaW REGerM PeWa
+File Number: 000588
+Time Difference: 3.0841666666666665
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000589
+Position Status: Active
+Time In: 09-15-2023 10:35 am
+Time Out: 09-15-2023 02:30 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: WgAyeW, RayCEWd
+File Number: 000589
+Time Difference: 3.921111111111111
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000589
+Position Status: Active
+Time In: 09-15-2023 03:00 pm
+Time Out: 09-15-2023 06:15 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: WgAyeW, RayCEWd
+File Number: 000589
+Time Difference: 3.2511111111111113
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000589
+Position Status: Active
+Time In: 09-18-2023 09:55 am
+Time Out: 09-18-2023 02:55 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: WgAyeW, RayCEWd
+File Number: 000589
+Time Difference: 5.013333333333334
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000589
+Position Status: Active
+Time In: 09-18-2023 03:25 pm
+Time Out: 09-18-2023 06:54 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: WgAyeW, RayCEWd
+File Number: 000589
+Time Difference: 3.496111111111111
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000589
+Position Status: Active
+Time In: 09-19-2023 10:25 am
+Time Out: 09-19-2023 02:30 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: WgAyeW, RayCEWd
+File Number: 000589
+Time Difference: 4.083333333333333
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000589
+Position Status: Active
+Time In: 09-19-2023 03:00 pm
+Time Out: 09-19-2023 07:01 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: WgAyeW, RayCEWd
+File Number: 000589
+Time Difference: 4.017777777777778
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000589
+Position Status: Active
+Time In: 09-20-2023 09:55 am
+Time Out: 09-20-2023 02:30 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: WgAyeW, RayCEWd
+File Number: 000589
+Time Difference: 4.583333333333333
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000589
+Position Status: Active
+Time In: 09-20-2023 03:00 pm
+Time Out: 09-20-2023 07:29 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: WgAyeW, RayCEWd
+File Number: 000589
+Time Difference: 4.494722222222222
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000589
+Position Status: Active
+Time In: 09-21-2023 09:56 am
+Time Out: 09-21-2023 02:30 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: WgAyeW, RayCEWd
+File Number: 000589
+Time Difference: 4.566666666666666
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000589
+Position Status: Active
+Time In: 09-21-2023 03:00 pm
+Time Out: 09-21-2023 07:16 pm
+Timecard Hours: 0.0
+Pay Cycle Start Date: 09-10-2023 12:00 am
+Pay Cycle End Date: 09-23-2023 12:00 am
+Employee Name: WgAyeW, RayCEWd
+File Number: 000589
+Time Difference: 4.267777777777778
+Consecutive Days: true
+-----------------------------
+Position ID: WFS000591
+Position Status: Active
+Time In: N/A
+Time Out: N/A
+Timecard Hours: 0.0
+Pay Cycle Start Date: N/A
+Pay Cycle End Date: N/A
+Employee Name: ArveXE RECerE, AWdres JesAs
+File Number: 000591
+Time Difference: 0.0
+Consecutive Days: true
+-----------------------------
